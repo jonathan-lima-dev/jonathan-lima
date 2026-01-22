@@ -1,10 +1,26 @@
-# PortfolioJonathan
+# Jonathan Lima - Portfólio
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.1.1.
+Este repositório contém o código fonte do meu portfólio profissional, desenvolvido com **Angular**.
 
-## Development server
+## 🚀 Tecnologias
 
-To start a local development server, run:
+- **Framework**: Angular 18+
+- **Estilização**: Bootstrap 5 & Bootstrap Icons
+- **Deploy**: GitHub Pages / Docker
+
+## 🛠️ Como rodar localmente
+
+1.  **Clone o repositório**
+
+2.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+3.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    ng serve
+    ```
+4.  **Acesse:** `http://localhost:4200`
 
 ```bash
 ng serve
