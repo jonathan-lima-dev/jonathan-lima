@@ -1,3 +1,5 @@
+/* You can add global styles to this file, and also import other style files */
+
 /* Paleta de Cores e Configurações Globais */
 :root {
   --primary-color: #0d6efd; /* Azul primário do Bootstrap */
@@ -32,7 +34,7 @@ h6 {
   height: 90vh;
   background:
     linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url("img/bg-banner.png") no-repeat center center;
+    url("/img/bg-banner.png") no-repeat center center;
   background-size: cover;
   color: var(--white-color);
 }
